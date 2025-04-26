@@ -16,7 +16,7 @@ local Window = MakeWindow({
 })
 
 AddMinimizeButton({
-    Icon = "105855861857949"
+    Icon = "0"
 })
 
 --// Tabs \\--
